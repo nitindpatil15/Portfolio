@@ -1,0 +1,257 @@
+@media only screen and (max-width: 1440px) {
+    .secondsection {
+        margin-bottom: 42%;
+    }
+
+    .secondsection .box {
+        margin-left: 0%;
+        width: 80vw;
+    }
+
+    .desc {
+        width: 700px;
+        font-size: 20px;
+        word-wrap: break-word;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    nav {
+        height: 60px;
+        margin-bottom: 5px;
+    }
+
+    .left h3 {
+        font-size: 20px;
+    }
+
+    li a {
+        margin: 10px;
+        padding: 0px;
+        font-size: 17px;
+    }
+
+    .firstleft {
+        font-size: 2rem;
+    }
+
+    .secondsection span,
+    .secondsection h3 {
+        font-size: 30px;
+    }
+
+    .secondsection {
+        margin-bottom: 59%;
+    }
+
+    .secondsection .box {
+        margin-left: 3%;
+        width: 60vw;
+    }
+    .about-info {
+        font-size: 18px;
+    }
+    .desc {
+        width: 500px;
+        font-size: 15px;
+        word-wrap: break-word;
+    }
+
+    .contact1 {
+        width: 60%;
+        margin: 15% 0% 5% 30%;
+    }
+
+    .thirdsection .about img {
+        width: 70%;
+    }
+
+    #Resume a {
+        padding: 10px;
+        font-size: 20px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .about-info .nitin {
+        font-size: 20px;
+    }
+    .left h3 {
+        font-size: 20px;
+    }
+
+    .firstleft {
+        font-size: 1.7rem;
+    }
+    .about-info {
+        font-size: 15px;
+    }
+    .secondsection span,
+    .secondsection h3 {
+        font-size: 30px;
+    }
+
+    .secondsection {
+        margin-bottom: 82%;
+    }
+    .social{
+        margin-left:100px ;
+    }
+    .social .a{
+        font-size: 12px;
+        margin-left: 30px;
+        margin-bottom: 10px;
+    }
+    .secondsection .box {
+        margin-left: 0%;
+        width: 60vw;
+    }
+    #contact-form input[type='submit'] {
+        border-radius: 30px;
+        padding: 10px;
+        width: 200px;
+        border: 1px solid transparent;
+      }
+    .desc {
+        width: 380px;
+        font-size: 15px;
+        word-wrap: break-word;
+    }
+
+    .contact1 {
+        width: 60%;
+        margin: 25% 20% 0% 20%;
+    }
+
+    .thirdsection .about img {
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 425px) {
+    nav {
+        justify-content: space-between;
+        height: 50px;
+        margin-bottom: 5px;
+    }
+    .secondsection {
+        margin-bottom: 210%;
+    }
+    #contact{
+        margin-top: 10%;
+    }
+    li a {
+        margin: 7px;
+        padding: 2px;
+        font-size: 10px;
+    }
+
+    .left h3 {
+        font-size: 15px;
+    }
+    .secondsection .vertical {
+        height: 130px;
+        width: 1px;
+        margin: 0px 50px;
+    }
+    
+    .vertical-title {
+        width: 160px;
+        margin: 0px 10px;
+    }
+    .desc {
+        width: 250px;
+    }
+    .thirdsection{
+        display: block;
+        margin: auto;
+        width: 80%;
+    }
+    .firstright img {
+        width: 100%;
+    }
+    .about {
+        width: 100%;
+        margin: 5%;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .thirdsection .about img {
+        width: 100%;
+    }
+    .secondsection span,
+    .secondsection h3 {
+        font-size: 20px;
+    }
+    #Resume a {
+        padding: 0px;
+        font-size: 8px;
+    }
+    .social{
+        margin-left:30px ;
+    }
+    .social .a{
+        margin-left: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 320px)  {
+
+    .secondsection {
+        margin-bottom: 280%;
+    }
+    .secondsection .vertical {
+        height: 150px;
+        width: 1px;
+        margin: 0px 20px;
+    }
+    .firstleft {
+        font-size: 1.3rem;
+    }
+    
+}
+/* @media only screen and (max-width: 375px) {
+
+    nav {
+        justify-content: space-between;
+        height: 50px;
+        margin-bottom: 5px;
+    }
+    .secondsection {
+        margin-bottom: 180%;
+    }
+    #contact{
+        margin-top: 10%;
+    }
+    li a {
+        margin: 7px;
+        padding: 0px;
+        font-size: 8px;
+    }
+
+    .left h3 {
+        font-size: 15px;
+    }
+    .secondsection .vertical {
+        height: 130px;
+        width: 1px;
+        margin: 0px 50px;
+    }
+    
+    .vertical-title {
+        width: 160px;
+        margin: 0px 10px;
+    }
+    .desc {
+        width: 250px;
+    }
+    .thirdsection .about img {
+        width: 50%;
+    }
+    .secondsection span,
+    .secondsection h3 {
+        font-size: 20px;
+    }
+    #Resume a {
+        padding: 0px;
+        font-size: 10px;
+    }
+} */
